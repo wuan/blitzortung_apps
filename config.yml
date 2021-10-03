@@ -1,0 +1,22 @@
+baseURL: https://blitzortung.tryb.de/
+languageCode: en-us
+title: My New Hugo Site
+theme: book
+title: "Blitzortung Lightning Monitor"
+
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+
+googleAnalytics: UA-123-45
+
+minify:
+    disableXML: true
+    minifyOutput: true
+
+outputs:
+  home:
+    - HTML
+    - RSS
+#    - JSON
