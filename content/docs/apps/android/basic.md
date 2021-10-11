@@ -88,3 +88,12 @@ Show dialog containing recent app features by version number
 ### Information
 
 Show a dialog with app related information.
+
+## Map usage
+
+Operations:
+
+  * Double tap to zoom in
+  * Pinch to zoom
+  * Slide to move
+  * Long press to select location for manual location mode
