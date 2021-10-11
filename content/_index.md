@@ -19,6 +19,7 @@ please have a look at the projects:
   * https://github.com/wuan/bo-ios for the iOS version
   * https://github.com/wuan/bo-python for the server side Python module 
   * https://github.com/wuan/bo-server for the server implementation
+  * https://github.com/wuan/blitzortung_apps for this webpage
 
 
 Any contribution is welcome!
