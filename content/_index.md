@@ -13,7 +13,7 @@ If you like to contribute by
   * improving code or
   *   improving localization
 
-please have a look at the projects:
+please have a look at the related projects:
 
   * https://github.com/wuan/bo-android for the Android version
   * https://github.com/wuan/bo-ios for the iOS version
