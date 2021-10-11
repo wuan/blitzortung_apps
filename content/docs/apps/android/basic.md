@@ -1,6 +1,6 @@
 ---
 weight: 10
-title: "Basic Functionality"
+title: "Main Screen"
 bookToc: false
 ---
 
@@ -48,3 +48,29 @@ bookToc: false
 
   * Shows the development of strike rate over the given time period (for the data region)
   * Tap to zoom out on region
+
+## Menu
+
+### Preferences
+ 
+Open Detailed App settings
+
+### Alarms
+
+Open the alarm radar:
+
+![](/app/android/alarm-radar_25.png)
+
+Color coding of last strike activity is shown according to the legend information.
+
+### Application log
+
+Show dialog with internal app application log. Can be used for immediate debugging. Creates an Email to send in the application log to get help.
+
+### Change log
+
+Show dialog containing recent app features by version number
+
+### Information
+
+Show a dialog with app related information.
