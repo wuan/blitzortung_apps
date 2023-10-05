@@ -14,18 +14,22 @@ bookToc: false
 
 ![](/app/android/legend_40.png)
 
-  * Show time range for color coded strike activity age used on map
+  * Time range for color coded strike activity age used on map:
+    * "white": latest lightning activity withing the last 10 minutes
+    * ...
+    * "dark orange": latest lightning activity between 40 or 50 minutes ago
+    * "dark red": latest lightning activity older thant 50 minutes
   * Additional information
-    * Grid baseline e. g. "Grid: 10km"
     * Region 
       * Europe, North America, Asia, ...
       * Local, for limited local area
       * Not given for Global data
+    * Grid baseline e. g. "Grid: 10km"
     * Count threshold setting
       * Not displayed for inactive threshold
       * E. g. "# > 5" for a threshold of 5
       * Only raster areas with strike counts greater or equalt to the threshold are displayed
-  * Tap for quick settings:
+  * Tap the legend to open "quick settings" dialog:
 
     ![](/app/android/quick-settings_25.png)
 
