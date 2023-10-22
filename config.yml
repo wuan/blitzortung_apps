@@ -1,5 +1,4 @@
 baseURL: https://blitzortung.tryb.de/
-languageCode: en-us
 title: My New Hugo Site
 theme: book
 title: "Blitzortung Lightning Monitor"
@@ -20,3 +19,15 @@ outputs:
     - HTML
     - RSS
 #    - JSON
+#
+languages:
+  en:
+    disabled: false
+    params:
+      languageCode: en-us
+      languageName: English
+  de:
+    disabled: false
+    params:
+      langageCode: de-de
+      languageName: Deutsch
