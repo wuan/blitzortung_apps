@@ -67,6 +67,12 @@ bookToc: false
   * Shows the development of strike rate over the given time period (for the data region)
   * Tap to zoom out on region
 
+### Map content
+
+The lightning activity is shown on the map in tiles with variable size (5 km, 10 km, 25 km, 50 km, 100 km). Each tile with recorded lightning acticitiy in the selected time range gets colored with respect to the most recent activity within the current interval. The numbers which appear inside the tiles show the number of lighning events recorded in the area of the tile during the relevant time interval.
+
+![](/app/android/main_map_data.png)
+
 ## Menu
 
 ### Preferences
