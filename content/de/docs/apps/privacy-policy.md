@@ -1,29 +1,29 @@
-Privacy Policy
-==============
+Datenschutzerklärung
+====================
 
-### Data privacy
+### Datenschutz
 
-#### General
+#### Allgemeines
 
-The app Blitzortung Lightning Monitor does not record, store or publish any personal data.
+Die App Blitzortung Lightning Monitor zeichnet keine persönlichen Daten auf, speichert oder veröffentlicht sie.
 
-#### Location Data
+#### Standortdaten
 
-The device location which is retrieved in order to check for nearby lightning activity is only used on the device itself and not transmitted somewhere.
+Der Gerätestandort, der abgerufen wird, um nach nahe gelegenen Blitzaktivitäten zu suchen, wird nur auf dem Gerät selbst verwendet und nicht irgendwohin übertragen.
 
-#### IP Addresses
+#### IP-Adressen
 
-When accessing the backend service the source IP address is logged by the webserver for debugging purpose. These logs are rotated biweekly. All information is deleted after two weeks.
+Beim Zugriff auf den Backend-Dienst wird die Quell-IP-Adresse vom Webserver zu Debugging-Zwecken protokolliert. Diese Protokolle werden alle zwei Wochen rotiert. Alle Informationen werden nach zwei Wochen gelöscht.
 
-### Contact
+### Kontakt
 
-#### Email
+#### E-Mail
 
 blitzortung@tryb.de
 
-#### Address
+#### Adresse
 
 WuAn - Blitzortung Lightning Monitor\
 Oetztaler Str. 16\
-81373 Munich\
-Germany
+81373 München\
+Deutschland

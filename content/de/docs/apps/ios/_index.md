@@ -4,18 +4,17 @@ title: "iOS App"
 bookToc: false
 ---
 
-Overview
---------
+Überblick
+---------
 
-Our iOS version is not finished yet, please contribute on [Github](https://github.com/wuan/bo-ios)
+Unsere iOS-Version ist noch nicht fertig, bitte tragen Sie auf [Github](https://github.com/wuan/bo-ios) bei.
 
-If you like to contribute by
+Wenn Sie beitragen möchten durch
 
--   reporting a bug
--   improving code or
--   improving localization
+-   das Melden eines Fehlers,
+-   das Verbessern des Codes oder
+-   das Verbessern der Lokalisierung,
 
-Please have a look at the projects <https://github.com/wuan/bo-ios>.
+schauen Sie sich bitte das Projekt unter <https://github.com/wuan/bo-ios> an.
 
-Any contribution is welcome!
-
+Jeder Beitrag ist willkommen!

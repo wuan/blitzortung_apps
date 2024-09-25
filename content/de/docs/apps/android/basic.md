@@ -1,6 +1,6 @@
 ---
 weight: 10
-title: "Main Screen"
+title: "Hauptbildschirm"
 bookToc: false
 ---
 
