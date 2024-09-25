@@ -16,5 +16,5 @@ The sources can be found on Github:
 ### Service status
 
 The current state of the service can be viewed here:
-- [Dashboard Server 1](https://metrics.tryb.de/dashboard/db/bo-webservice)
-- [Dashboard Server 2](https://raijin.tryb.de/dashboard/db/bo-webservice) 
+- [Dashboard Server 1](https://metrics.tryb.de/d/iPC94Iznk/bo-webservice)
+- [Dashboard Server 2](https://raijin.tryb.de/d/iPC94Iznk/bo-webservice) 
