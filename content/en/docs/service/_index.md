@@ -12,6 +12,7 @@ The sources can be found on GitHub:
 
 - [Basic Python Module](https://github.com/wuan/bo-python)
 - [Service Implementation](https://github.com/wuan/bo-server)
+- [JSON-RPC for Twisted](https://github.com/wuan/txjsonrpc)
 
 ### Service status
 
