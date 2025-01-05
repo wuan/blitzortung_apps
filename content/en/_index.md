@@ -5,7 +5,7 @@ type: docs
 
 # Introduction
 
-We are just preparing a documentation and status info website for the Blitzortung Lightning Monitor app.
+We are just preparing a documentation and status info website for the [Blitzortung Lightning Monitor](https://play.google.com/store/apps/details?id=org.blitzortung.android.app) app.
 
 If you like to contribute by
 
