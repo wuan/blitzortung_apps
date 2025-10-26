@@ -8,42 +8,49 @@ bookToc: false
 
 ![](/app/android/main_realtime_25.png)
 
+The time slider in the bottom allows to select a point in time out of the last 24 hours to be shown on the map. Moving the slider to the right activates the realtime mode.
+
 ## Elements
 
 ### Top left -- Legend
 
-![](/app/android/legend_40.png)
+![](/app/android/legend_50.png)
 
   * Time range for color-coded strike activity age used on map:
     * "white": latest lightning activity within the last 10 minutes
     * ...
     * "dark orange": latest lightning activity between 40 or 50 minutes ago
-    * "dark red": latest lightning activity older thant 50 minutes
+    * "dark red": latest lightning activity older than 50 minutes
   * Additional information
     * Region 
       * Europe, North America, Asia, ...
-      * Local, for limited local area data
-      * Not given for Global data
+      * Local[&lt;size&gt;], for limited local area data. `<size>` degrees region size.
+      * Not given for Global data. 
     * Grid baseline e. g. "Grid: 10km"
+      * Not given for Blitzortung.org data.
     * Count threshold setting
       * Not displayed for inactive count threshold setting
       * For example, "# > 5" for a threshold of 5
       * Only raster areas with strike counts greater or equalt to the threshold are displayed
   * Tap the legend to open "Quick settings" dialog:
 
-    ![](/app/android/quick-settings_25.png)
+    ![](/app/android/main_quick_settings_25.png)
 
-### Top right -- Menu / History
+### Top right -- Menu / Control
 
-| realtime | history |
-|----------|---------|
-| ![](/app/android/menu-realtime.png) | ![](/app/android/menu-history.png) |
+| Realtime                               | History                               | Animation                               |
+|----------------------------------------|---------------------------------------|-----------------------------------------|
+| ![](/app/android/menu_realtime_50.png) | ![](/app/android/menu_history_50.png) | ![](/app/android/menu_animation_50.png) |
 
 
   * Open menu (on devices without menu button)
-  * Browser through history
-    * Time step can be changed in the settings.
-    * Can be used to browse through the last 24 hours of ligthning activity.
+  * Realtime mode:
+    * Start Animation
+  * History mode:
+    * Start Animation
+    * Jump to Realtime
+  * Animation mode:
+    * Stop Animation
 
 ### Bottom left -- Alarm radar
 
@@ -69,7 +76,7 @@ bookToc: false
 
 ### Map content
 
-The lightning activity is shown on the map in tiles with variable size (5 km, 10 km, 25 km, 50 km, 100 km). Each tile with recorded lightning activity in the selected time range gets colored with respect to the most recent activity within the current interval. The numbers which appear inside the tiles show the number of lighning events recorded in the area of the tile during the relevant time interval.
+The lightning activity is shown on the map in tiles with variable size (5 km, 10 km, 25 km, 50 km, 100 km). Each tile with recorded lightning activity in the selected time range gets colored with respect to the most recent activity within the current interval. The numbers which appear inside the tiles show the number of lightning events recorded in the area of the tile during the relevant time interval.
 
 ![](/app/android/main_map_data.png)
 

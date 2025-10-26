@@ -8,11 +8,13 @@ bookToc: false
 
 ![](/app/android/main_realtime_25.png)
 
+Über die Zeitleiste unten kann direkt ein Zeitpunkt aus den vergangenen 24 Stunden angewählt werden. Wenn man den Schieberegler ganz nach rechts bewegt wird der Echtzeitmodus aktiviert.
+
 ## Elemente
 
 ### Oben links – Legende
 
-![](/app/android/legend_40.png)
+![](/app/android/legend_50.png)
 
   * Zeitbereich für das farbcodierte Alter der Blitzaktivität auf der Karte:
     * „weiß“: neueste Blitzaktivität innerhalb der letzten 10 Minuten
@@ -22,28 +24,33 @@ bookToc: false
   * Zusätzliche Informationen
     * Region 
       * Europa, Nordamerika, Asien, ...
-      * Lokal, für einen begrenzten lokalen Bereich
+      * Lokal[&lt;size&gt;], für einen begrenzten lokalen Bereich. `<size>` gibt die Basisgröße der Datenregion in Grad an. 
       * Nicht angegeben bei globalen Daten
     * Rastergrundlage, z. B. „Raster: 10 km“
+      * Nicht angegeben bei Blitortung.org Daten
     * Zählschwellenwert
       * Nicht angezeigt, wenn der Schwellenwert inaktiv ist
       * Zum Beispiel „# > 5“ für einen Schwellenwert von 5
       * Es werden nur Rasterbereiche angezeigt, deren Blitzanzahl größer oder gleich dem Schwellenwert ist
   * Tippen Sie auf die Legende, um den Dialog „Schnelleinstellungen“ zu öffnen:
 
-    ![](/app/android/quick-settings_25.png)
+    ![](/app/android/main_quick_settings_25.png)
 
-### Oben rechts – Menü/Verlauf
+### Oben rechts – Menü / Steuerung
 
-| Echtzeit | Verlauf |
-|----------|---------|
-| ![](/app/android/menu-realtime.png) | ![](/app/android/menu-history.png) |
+| Echtzeit                               | Verlauf                               | Animation                               |
+|----------------------------------------|---------------------------------------|-----------------------------------------|
+| ![](/app/android/menu_realtime_50.png) | ![](/app/android/menu_history_50.png) | ![](/app/android/menu_animation_50.png) |
 
 
   * Menü öffnen (auf Geräten ohne Menütaste)
-  * Durch den Verlauf blättern
-    * Der Zeitschritt kann in den Einstellungen geändert werden.
-    * Kann verwendet werden, um die letzten 24 Stunden der Blitzaktivität zu durchsuchen.
+  * Echtzeitmodus
+    * Animation starten
+  * Historischer Modus (Verlauf)
+    * Animation starten
+    * In Echtzeit-Modus wechseln
+  * Animations-Modus
+    * Animation beenden
 
 ### Unten links – Alarmradar
 
