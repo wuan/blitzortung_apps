@@ -14,22 +14,22 @@ bookToc: false
 
 ![](/app/android/legend_40.png)
 
-  * Time range for color coded strike activity age used on map:
-    * "white": latest lightning activity withing the last 10 minutes
+  * Time range for color-coded strike activity age used on map:
+    * "white": latest lightning activity within the last 10 minutes
     * ...
     * "dark orange": latest lightning activity between 40 or 50 minutes ago
     * "dark red": latest lightning activity older thant 50 minutes
   * Additional information
     * Region 
       * Europe, North America, Asia, ...
-      * Local, for limited local area
+      * Local, for limited local area data
       * Not given for Global data
     * Grid baseline e. g. "Grid: 10km"
     * Count threshold setting
-      * Not displayed for inactive threshold
-      * E. g. "# > 5" for a threshold of 5
+      * Not displayed for inactive count threshold setting
+      * For example, "# > 5" for a threshold of 5
       * Only raster areas with strike counts greater or equalt to the threshold are displayed
-  * Tap the legend to open "quick settings" dialog:
+  * Tap the legend to open "Quick settings" dialog:
 
     ![](/app/android/quick-settings_25.png)
 
@@ -57,8 +57,8 @@ bookToc: false
   	* lightning data
   	* known location
   	* realtime mode
-  * Tap to center map around location
-  * Long press to open bigger version of Alarm radar
+  * Tap to center map around the location
+  * Long press to open a bigger version of Alarm radar
 
 ### Bottom right -- Histogram
 
@@ -69,7 +69,7 @@ bookToc: false
 
 ### Map content
 
-The lightning activity is shown on the map in tiles with variable size (5 km, 10 km, 25 km, 50 km, 100 km). Each tile with recorded lightning acticitiy in the selected time range gets colored with respect to the most recent activity within the current interval. The numbers which appear inside the tiles show the number of lighning events recorded in the area of the tile during the relevant time interval.
+The lightning activity is shown on the map in tiles with variable size (5 km, 10 km, 25 km, 50 km, 100 km). Each tile with recorded lightning activity in the selected time range gets colored with respect to the most recent activity within the current interval. The numbers which appear inside the tiles show the number of lighning events recorded in the area of the tile during the relevant time interval.
 
 ![](/app/android/main_map_data.png)
 
@@ -89,21 +89,21 @@ Color coding of last strike activity is shown according to the legend informatio
 
 ### Application log
 
-Show dialog with internal app application log. Can be used for immediate debugging. Creates an Email to send in the application log to get help.
+Show a dialog with internal app application log content. Can be used for immediate debugging. Creates an Email to send in the application log to get help.
 
 ### Change log
 
-Show dialog containing recent app features by version number
+Show a dialog containing recent app features by version number
 
 ### Information
 
-Show a dialog with app related information.
+Show a dialog with app-related information.
 
 ## Map usage
 
 Operations:
 
-  * Double tap to zoom in
+  * Double-tap to zoom in
   * Pinch to zoom
   * Slide to move
   * Long press to select location for manual location mode
