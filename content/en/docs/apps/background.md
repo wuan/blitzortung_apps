@@ -49,7 +49,7 @@ This step has been planned for a while, and it should solve multiple issues:
 
 On the downside we needed to replace the (relatively dark) satellite image view with the default rendered tiles of OpenStreetMap (the decision has been to avoid on device rendering to allow usage on older devices).
 
-It took us some time in the beginning to figure out the best configuration for OpenStreetMap tiles. This also included the correct permissions for storing data locally in order to cache downloaded tiles.
+It took us some time in the beginning to figure out the best configuration and display settings (brightness and scaling) for OpenStreetMap tiles. This also included the correct permissions for storing data locally in order to cache downloaded tiles.
 
 We had many unhappy users and received many one-star ratings where people tried to push us back using Google Maps which was not an option because of the reasons given above.
 
