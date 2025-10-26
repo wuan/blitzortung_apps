@@ -6,7 +6,7 @@ bookToc: false
 
 # Main screen
 
-![](/app/android/main_realtime.png)
+![](/app/android/main_realtime_25.png)
 
 ## Elements
 
