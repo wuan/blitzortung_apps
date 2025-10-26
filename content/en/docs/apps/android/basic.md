@@ -8,6 +8,8 @@ bookToc: false
 
 ![](/app/android/main_realtime_25.png)
 
+The time slider in the bottom allows to select a point in time out of the last 24 hours to be shown on the map. Moving the slider to the right activates the realtime mode.
+
 ## Elements
 
 ### Top left -- Legend
@@ -34,7 +36,7 @@ bookToc: false
 
     ![](/app/android/main_quick_settings_25.png)
 
-### Top right -- Menu / History
+### Top right -- Menu / Control
 
 | Realtime                               | History                               | Animation                               |
 |----------------------------------------|---------------------------------------|-----------------------------------------|

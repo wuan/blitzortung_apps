@@ -8,6 +8,8 @@ bookToc: false
 
 ![](/app/android/main_realtime_25.png)
 
+Über die Zeitleiste unten kann direkt ein Zeitpunkt aus den vergangenen 24 Stunden angewählt werden. Wenn man den Schieberegler ganz nach rechts bewegt wird der Echtzeitmodus aktiviert.
+
 ## Elemente
 
 ### Oben links – Legende
@@ -34,7 +36,7 @@ bookToc: false
 
     ![](/app/android/main_quick_settings_25.png)
 
-### Oben rechts – Menü/Steuerung
+### Oben rechts – Menü / Steuerung
 
 | Echtzeit                               | Verlauf                               | Animation                               |
 |----------------------------------------|---------------------------------------|-----------------------------------------|
@@ -42,9 +44,13 @@ bookToc: false
 
 
   * Menü öffnen (auf Geräten ohne Menütaste)
-  * Durch den Verlauf blättern
-    * Der Zeitschritt kann in den Einstellungen geändert werden.
-    * Kann verwendet werden, um die letzten 24 Stunden der Blitzaktivität zu durchsuchen.
+  * Echtzeitmodus
+    * Animation starten
+  * Historischer Modus (Verlauf)
+    * Animation starten
+    * In Echtzeit-Modus wechseln
+  * Animations-Modus
+    * Animation beenden
 
 ### Unten links – Alarmradar
 
