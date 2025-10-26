@@ -35,9 +35,9 @@ bookToc: false
 
 ### Top right -- Menu / History
 
-| realtime                               | history                               | animation                             |
-|----------------------------------------|---------------------------------------|---------------------------------------|
-| ![](/app/android/menu_realtime_50.png) | ![](/app/android/menu_history_50.png) | ![](/app/android/menu_history_50.png) |
+| realtime                               | history                               | animation                               |
+|----------------------------------------|---------------------------------------|-----------------------------------------|
+| ![](/app/android/menu_realtime_50.png) | ![](/app/android/menu_history_50.png) | ![](/app/android/menu_animation_50.png) |
 
 
   * Open menu (on devices without menu button)

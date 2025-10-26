@@ -35,9 +35,9 @@ bookToc: false
 
 ### Oben rechts – Menü/Steuerung
 
-| Echtzeit                               | Verlauf                               | Animation                             |
-|----------------------------------------|---------------------------------------|---------------------------------------|
-| ![](/app/android/menu_realtime_50.png) | ![](/app/android/menu_history_50.png) | ![](/app/android/menu_history_50.png) |
+| Echtzeit                               | Verlauf                               | Animation                               |
+|----------------------------------------|---------------------------------------|-----------------------------------------|
+| ![](/app/android/menu_realtime_50.png) | ![](/app/android/menu_history_50.png) | ![](/app/android/menu_animation_50.png) |
 
 
   * Menü öffnen (auf Geräten ohne Menütaste)
