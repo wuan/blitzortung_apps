@@ -16,3 +16,7 @@ magick main_realtime.png -resize 50% -crop 100x300+620+80 menu_realtime_50.png
 magick main_history.png -resize 50% -crop 100x300+620+80 menu_history_50.png
 magick main_animation.png -resize 50% -crop 100x300+620+80 menu_animation_50.png
 ```
+
+```
+magick main_realtime.png -resize 50% -crop 160x290+0+80 legend_50.png
+```

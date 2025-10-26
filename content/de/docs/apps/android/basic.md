@@ -12,7 +12,7 @@ bookToc: false
 
 ### Oben links – Legende
 
-![](/app/android/legend_40.png)
+![](/app/android/legend_50.png)
 
   * Zeitbereich für das farbcodierte Alter der Blitzaktivität auf der Karte:
     * „weiß“: neueste Blitzaktivität innerhalb der letzten 10 Minuten
@@ -22,9 +22,10 @@ bookToc: false
   * Zusätzliche Informationen
     * Region 
       * Europa, Nordamerika, Asien, ...
-      * Lokal, für einen begrenzten lokalen Bereich
+      * Lokal[&lt;size&gt;], für einen begrenzten lokalen Bereich. `<size>` gibt die Basisgröße der Datenregion in Grad an. 
       * Nicht angegeben bei globalen Daten
     * Rastergrundlage, z. B. „Raster: 10 km“
+      * Nicht angegeben bei Blitortung.org Daten
     * Zählschwellenwert
       * Nicht angezeigt, wenn der Schwellenwert inaktiv ist
       * Zum Beispiel „# > 5“ für einen Schwellenwert von 5

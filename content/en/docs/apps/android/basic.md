@@ -12,7 +12,7 @@ bookToc: false
 
 ### Top left -- Legend
 
-![](/app/android/legend_40.png)
+![](/app/android/legend_50.png)
 
   * Time range for color-coded strike activity age used on map:
     * "white": latest lightning activity within the last 10 minutes
@@ -22,9 +22,10 @@ bookToc: false
   * Additional information
     * Region 
       * Europe, North America, Asia, ...
-      * Local, for limited local area data
-      * Not given for Global data
+      * Local[&lt;size&gt;], for limited local area data. `<size>` degrees region size.
+      * Not given for Global data. 
     * Grid baseline e. g. "Grid: 10km"
+      * Not given for Blitzortung.org data.
     * Count threshold setting
       * Not displayed for inactive count threshold setting
       * For example, "# > 5" for a threshold of 5
@@ -35,15 +36,19 @@ bookToc: false
 
 ### Top right -- Menu / History
 
-| realtime                               | history                               | animation                               |
+| Realtime                               | History                               | Animation                               |
 |----------------------------------------|---------------------------------------|-----------------------------------------|
 | ![](/app/android/menu_realtime_50.png) | ![](/app/android/menu_history_50.png) | ![](/app/android/menu_animation_50.png) |
 
 
   * Open menu (on devices without menu button)
-  * Start animation
-    * Time step can be changed in the settings.
-    * Can be used to browse through the last 24 hours of ligthning activity.
+  * Realtime mode:
+    * Start Animation
+  * History mode:
+    * Start Animation
+    * Jump to Realtime
+  * Animation mode:
+    * Stop Animation
 
 ### Bottom left -- Alarm radar
 
