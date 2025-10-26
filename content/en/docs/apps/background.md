@@ -55,7 +55,6 @@ We had many unhappy users and received many one-star ratings where people tried 
 
 | ![](/app/background/gmapv1_1.6.5.png) | ![](/app/background/osm_2.0.0.png) |
 |---|---|
-| Google Maps V1 | OpenStreetMap tiles |
 
 ## Introducing automatic grid size and data mode
 
@@ -67,5 +66,6 @@ So it was time to introduce an automatic selection of grid size and data mode fo
 
 October 2023 Version 2.2.0 (313)
 
-## Introducing map overlays
+Animation mode has been on our feature list for a long time. With the added caching mechanism, it is possible to implement a time slider for the history allowing direct access to past data.
+
 
