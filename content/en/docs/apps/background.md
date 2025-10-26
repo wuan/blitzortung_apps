@@ -53,7 +53,8 @@ It took us some time in the beginning to figure out the best configuration for O
 
 We had many unhappy users and received many one-star ratings where people tried to push us back using Google Maps which was not an option because of the reasons given above.
 
-![](/app/background/gmapv1_1.6.5.png) ![](/app/background/osm_2.0.0.png)
+| ![](/app/background/gmapv1_1.6.5.png) | ![](/app/background/osm_2.0.0.png) |
+|---|---|
 
 ## Introducing automatic grid size and data mode
 
