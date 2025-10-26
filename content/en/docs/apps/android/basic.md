@@ -18,7 +18,7 @@ bookToc: false
     * "white": latest lightning activity within the last 10 minutes
     * ...
     * "dark orange": latest lightning activity between 40 or 50 minutes ago
-    * "dark red": latest lightning activity older thant 50 minutes
+    * "dark red": latest lightning activity older than 50 minutes
   * Additional information
     * Region 
       * Europe, North America, Asia, ...
@@ -69,7 +69,7 @@ bookToc: false
 
 ### Map content
 
-The lightning activity is shown on the map in tiles with variable size (5 km, 10 km, 25 km, 50 km, 100 km). Each tile with recorded lightning activity in the selected time range gets colored with respect to the most recent activity within the current interval. The numbers which appear inside the tiles show the number of lighning events recorded in the area of the tile during the relevant time interval.
+The lightning activity is shown on the map in tiles with variable size (5 km, 10 km, 25 km, 50 km, 100 km). Each tile with recorded lightning activity in the selected time range gets colored with respect to the most recent activity within the current interval. The numbers which appear inside the tiles show the number of lightning events recorded in the area of the tile during the relevant time interval.
 
 ![](/app/android/main_map_data.png)
 
