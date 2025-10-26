@@ -40,6 +40,8 @@ This is done by sampling the longitude and latitude of the device location to a 
 
 ## Moving from Google Maps to OpenStreetMap
 
+April 2019 (Version 1.6.5 to 2.0.0)
+
 This step has been planned for a while, and it should solve multiple issues:
 
 * Getting independent of Google Play Store should also allow deploying the app to F-Droid for all users trying to avoid using Google services.
@@ -51,8 +53,17 @@ It took us some time in the beginning to figure out the best configuration for O
 
 We had many unhappy users and received many one-star ratings where people tried to push us back using Google Maps which was not an option because of the reasons given above.
 
+![](/app/background/gmapv1_1.6.5.png) ![](/app/background/osm_2.0.0.png)
+
 ## Introducing automatic grid size and data mode
 
 Introducing the local data mode has already been a big step forward for minimising the data transfer and server load for background operation. Still having global data queries with 5 km raster from interactive app usage has been hitting the servers.
 
 So it was time to introduce an automatic selection of grid size and data mode for interactive app usage which should be totally transparent. Having global data mode for small zoom levels (world / continent) overview and automatically switching to local data mode when users are zooming in to a specific region.
+
+## Introducing animation mode and history slider
+
+October 2023 Version 2.2.0 (313)
+
+## Introducing map overlays
+
