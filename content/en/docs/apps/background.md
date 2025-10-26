@@ -56,7 +56,9 @@ We had many unhappy users and received many one-star ratings where people tried 
 | ![](/app/background/gmapv1_1.6.5.png) | ![](/app/background/osm_2.0.0.png) |
 |---|---|
 
-## Introducing automatic grid size and data mode
+## Introducing automatic grid size and local data mode
+
+Introduced in June 2020 with Version 2.1.0 (265)
 
 Introducing the local data mode has already been a big step forward for minimising the data transfer and server load for background operation. Still having global data queries with 5 km raster from interactive app usage has been hitting the servers.
 
@@ -67,5 +69,11 @@ So it was time to introduce an automatic selection of grid size and data mode fo
 October 2023 Version 2.2.0 (313)
 
 Animation mode has been on our feature list for a long time. With the added caching mechanism, it is possible to implement a time slider for the history allowing direct access to past data.
+
+## Internal modernisation
+
+Introduced in August 2025 Version 2.4.0 (341)
+
+With increasing complexity of modern Android permission management we completely rewrote the permission handling and related code which already had created some issues for our users. 
 
 
