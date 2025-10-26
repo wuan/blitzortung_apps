@@ -31,13 +31,13 @@ bookToc: false
       * Es werden nur Rasterbereiche angezeigt, deren Blitzanzahl größer oder gleich dem Schwellenwert ist
   * Tippen Sie auf die Legende, um den Dialog „Schnelleinstellungen“ zu öffnen:
 
-    ![](/app/android/quick-settings_25.png)
+    ![](/app/android/main_quick_settings_25.png)
 
-### Oben rechts – Menü/Verlauf
+### Oben rechts – Menü/Steuerung
 
-| Echtzeit | Verlauf |
-|----------|---------|
-| ![](/app/android/menu-realtime.png) | ![](/app/android/menu-history.png) |
+| Echtzeit                               | Verlauf                               | Animation                             |
+|----------------------------------------|---------------------------------------|---------------------------------------|
+| ![](/app/android/menu_realtime_50.png) | ![](/app/android/menu_history_50.png) | ![](/app/android/menu_history_50.png) |
 
 
   * Menü öffnen (auf Geräten ohne Menütaste)

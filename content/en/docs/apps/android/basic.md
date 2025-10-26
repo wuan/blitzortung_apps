@@ -31,17 +31,17 @@ bookToc: false
       * Only raster areas with strike counts greater or equalt to the threshold are displayed
   * Tap the legend to open "Quick settings" dialog:
 
-    ![](/app/android/quick-settings_25.png)
+    ![](/app/android/main_quick_settings_25.png)
 
 ### Top right -- Menu / History
 
-| realtime | history |
-|----------|---------|
-| ![](/app/android/menu-realtime.png) | ![](/app/android/menu-history.png) |
+| realtime                               | history                               | animation                             |
+|----------------------------------------|---------------------------------------|---------------------------------------|
+| ![](/app/android/menu_realtime_50.png) | ![](/app/android/menu_history_50.png) | ![](/app/android/menu_history_50.png) |
 
 
   * Open menu (on devices without menu button)
-  * Browser through history
+  * Start animation
     * Time step can be changed in the settings.
     * Can be used to browse through the last 24 hours of ligthning activity.
 
