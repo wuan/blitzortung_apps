@@ -1,27 +1,26 @@
-Datenschutzerklärung
-====================
+# Datenschutzerklärung
 
-### Datenschutz
+## Datenschutz
 
-#### Allgemeines
+### Allgemeines
 
 Die App Blitzortung Lightning Monitor zeichnet keine persönlichen Daten auf, speichert oder veröffentlicht sie.
 
-#### Standortdaten
+### Standortdaten
 
 Der Gerätestandort, der abgerufen wird, um nach nahe gelegenen Blitzaktivitäten zu suchen, wird nur auf dem Gerät selbst verwendet und nicht irgendwohin übertragen.
 
-#### IP-Adressen
+### IP-Adressen
 
 Beim Zugriff auf den Backend-Dienst wird die Quell-IP-Adresse vom Webserver zu Debugging-Zwecken protokolliert. Diese Protokolle werden alle zwei Wochen rotiert. Alle Informationen werden nach zwei Wochen gelöscht.
 
-### Kontakt
+## Kontakt
 
-#### E-Mail
+### E-Mail
 
 blitzortung@tryb.de
 
-#### Adresse
+### Adresse
 
 WuAn - Blitzortung Lightning Monitor\
 Oetztaler Str. 16\

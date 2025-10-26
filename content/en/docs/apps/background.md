@@ -1,3 +1,9 @@
+---
+weight: 10
+title: "Background and History"
+bookToc: false
+---
+
 # Background and History
 
 Development started in 2012 as a for fun project using [Blitzortung.org](http://blitzortung.org) data using the basic ideas:

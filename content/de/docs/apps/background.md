@@ -1,3 +1,9 @@
+---
+weight: 10
+title: "Hintergrund und Geschichte"
+bookToc: false
+---
+
 # Hintergrund und Geschichte
 
 Die Entwicklung begann 2012 als Spaßprojekt auf Basis der Daten von [Blitzortung.org](http://blitzortung.org) mit folgenden Grundideen:
