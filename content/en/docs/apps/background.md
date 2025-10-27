@@ -83,6 +83,11 @@ October 2023 Version 2.2.0 (313)
 
 Animation mode has been on our feature list for a long time. With the added caching mechanism, it is possible to implement a time slider for the history allowing direct access to past data.
 
+<video width="100%" autoplay loop muted controls>
+  <source src="/app/android/main_history.webm" type="video/webm">
+  Your browser does not support the video tag.
+</video> 
+
 ## Internal modernisation
 
 Introduced in August 2025 Version 2.4.0 (341)
