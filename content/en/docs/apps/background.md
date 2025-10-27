@@ -74,10 +74,12 @@ So it was time to introduce an automatic selection of grid size and data mode fo
 
 October 2023 Version 2.2.0 (313)
 
+{{< raw_html >}}
 <video width="320" height="240" autoplay>
   <source src="/app/android/main_animation.webm" type="video/webm">
   Your browser does not support the video tag.
 </video> 
+{{< /raw_html >}} 
 
 Animation mode has been on our feature list for a long time. With the added caching mechanism, it is possible to implement a time slider for the history allowing direct access to past data.
 
