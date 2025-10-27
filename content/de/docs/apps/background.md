@@ -75,10 +75,10 @@ Es war daher an der Zeit, eine automatische Auswahl von Rastergröße und Datenm
 Oktober 2023, Version 2.2.0 (313)
 
 {{< raw_html >}}
-<video width="320" height="240" autoplay>
+<video width="100%" autoplay loop muted controls>
   <source src="/app/android/main_animation.webm" type="video/webm">
   Your browser does not support the video tag.
-</video>
+</video> 
 {{< /raw_html >}} 
 
 Der Animationsmodus stand lange auf unserer Wunschliste. Mit dem zusätzlichen Caching‑Mechanismus ist es möglich, einen Zeitschieberegler für den Verlauf zu implementieren, der direkten Zugriff auf vergangene Daten erlaubt.
