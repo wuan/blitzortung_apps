@@ -83,10 +83,12 @@ Oktober 2023, Version 2.2.0 (313)
 
 Der Animationsmodus stand lange auf unserer Wunschliste. Mit dem zusätzlichen Caching‑Mechanismus ist es möglich, einen Zeitschieberegler für den Verlauf zu implementieren, der direkten Zugriff auf vergangene Daten erlaubt.
 
+{{< raw_html >}}
 <video width="100%" autoplay loop muted controls>
   <source src="/app/android/main_history.webm" type="video/webm">
   Your browser does not support the video tag.
 </video> 
+{{< /raw_html >}}
 
 ## Interne Modernisierung
 
