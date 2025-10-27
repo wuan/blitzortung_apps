@@ -74,6 +74,8 @@ Es war daher an der Zeit, eine automatische Auswahl von Rastergröße und Datenm
 
 Oktober 2023, Version 2.2.0 (313)
 
+![](/app/background/main_animation.webm)
+
 Der Animationsmodus stand lange auf unserer Wunschliste. Mit dem zusätzlichen Caching‑Mechanismus ist es möglich, einen Zeitschieberegler für den Verlauf zu implementieren, der direkten Zugriff auf vergangene Daten erlaubt.
 
 ## Interne Modernisierung
