@@ -7,7 +7,7 @@ bookToc: false
 Overview
 --------
 
-Our iOS version is not finished yet, please contribute on [Github](https://github.com/wuan/bo-ios)
+Our iOS version is not finished yet, please contribute on [GitHub](https://github.com/wuan/bo-ios)
 
 If you like to contribute by
 

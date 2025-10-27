@@ -8,7 +8,7 @@ The data service is a [JSON-RPC](http://www.jsonrpc.org/) service implemented in
 the [Python](https://www.python.org/) [Twisted](https://twistedmatrix.com/) framework. The data is stored in
 a [PostgreSQL](https://www.postgresql.org/) database.
 
-The sources can be found on Github:
+The sources can be found on GitHub:
 
 - [Basic Python Module](https://github.com/wuan/bo-python)
 - [Service Implementation](https://github.com/wuan/bo-server)
