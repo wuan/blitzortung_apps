@@ -5,15 +5,17 @@ type: docs
 
 # Introduction
 
-We are just preparing a documentation and status info website for the [Blitzortung Lightning Monitor](https://play.google.com/store/apps/details?id=org.blitzortung.android.app) app.
+This is the documentation and status info website for the [Blitzortung Lightning Monitor](https://play.google.com/store/apps/details?id=org.blitzortung.android.app) app.
 
 Please use https://wuan.github.io/bo-upptime/ to track the backend service status.
 
 If you like to contribute by
 
-  * reporting a bug
-  * improving code or
-  *   improving localization
+  * Reporting a bug,
+  * Adding new features,
+  * Fixing bugs,
+  * Improving code / documentation, or 
+  * Improving localization
 
 please have a look at the related projects:
 
