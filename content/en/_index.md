@@ -32,5 +32,3 @@ Any contribution is welcome!
 ## Support
 
 If you would like to support the project, please see the [About](../docs/about/) page for information on running costs and donations.
-
-This site is still work in progress, please expect more to come soon!
