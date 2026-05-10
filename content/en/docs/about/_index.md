@@ -20,7 +20,7 @@ The software for both backend and app is provided as open source and open access
 
 ## Running Costs
 
-The fixed cost for the two redundant backend servers is **12.90 EUR per server, totaling 25.80 EUR per month**.
+The fixed cost for the two redundant backend servers is **12.90 EUR per server, totaling 25.80 EUR per month (309.60 EUR per year)**.
 
 ## Donations Received
 

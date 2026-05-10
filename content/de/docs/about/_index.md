@@ -20,7 +20,7 @@ Die Software für Backend und App wird als Open Source und Open Access bereitges
 
 ## Betriebskosten
 
-Die festen Kosten für die zwei redundanten Backend-Server betragen **12,90 EUR pro Server, insgesamt 25,80 EUR pro Monat**.
+Die festen Kosten für die zwei redundanten Backend-Server betragen **12,90 EUR pro Server, insgesamt 25,80 EUR pro Monat (309,60 EUR pro Jahr)**.
 
 ## Erhaltene Spenden
 
