@@ -96,4 +96,24 @@ Introduced in August 2025 Version 2.4.0 (341)
 
 With increasing complexity of modern Android permission management we completely rewrote the permission handling and related code which already had created some issues for our users. 
 
+## Introducing Home-Screen Widget
+
+Introduced in April 2026 Version 2.5.0 (352)
+
+A new home-screen widget provides quick access to lightning activity at a glance. The widget displays the alarm radar view directly on the home screen, showing:
+
+  * Current lightning activity by distance for the user's location
+  * GPS source type and coordinates in the top-right corner
+  * Color-coded activity following the same legend as the main app
+
+Widget interactions:
+  * Single tap triggers an immediate data update with progress indicator
+  * Double tap opens the main app
+
+The widget automatically updates every 15 minutes via WorkManager and adapts to different widget sizes.
+
+## Location Outside Data Area
+
+When the device location is outside the current lightning data coverage area (e.g., in local data mode when zoomed into a region where no data is available), the alarm radar displays an "outside" indicator instead of the normal activity view. This helps users understand why they are not seeing lightning data for their current location. 
+
 

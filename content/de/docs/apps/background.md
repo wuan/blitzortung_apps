@@ -96,4 +96,24 @@ August 2025, Version 2.4.0 (341)
 
 Mit der zunehmenden Komplexität des modernen Android‑Berechtigungsmanagements haben wir die Berechtigungslogik und den zugehörigen Code vollständig neu geschrieben, die zuvor bereits zu Problemen für unsere Nutzer geführt hatten.
 
+## Einführung des Startbildschirm-Widgets
+
+Eingeführt im April 2026, Version 2.5.0 (352)
+
+Ein neues Startbildschirm-Widget ermöglicht einen schnellen Überblick über die Blitzaktivität. Das Widget zeigt die Alarmradaransicht direkt auf dem Startbildschirm und enthält:
+
+  * Aktuelle Blitzaktivität nach Entfernung für den Standort des Nutzers
+  * GPS-Quellentyp und Koordinaten in der oberen rechten Ecke
+  * Farbcodierte Aktivität nach derselben Legende wie in der Haupt-App
+
+Widget-Interaktionen:
+  * Einfachtippen löst eine sofortige Datenaktualisierung mit Fortschrittsanzeige aus
+  * Doppeltippen öffnet die Haupt-App
+
+Das Widget aktualisiert sich automatisch alle 15 Minuten über WorkManager und passt sich an verschiedene Widget-Größen an.
+
+## Standort außerhalb des Datenbereichs
+
+Wenn sich der Gerätestandort außerhalb des aktuellen Blitzdaten-Abdeckungsbereichs befindet (z. B. im Lokaldatenmodus beim Zoomen in eine Region, für die keine Daten verfügbar sind), zeigt das Alarmradar einen „außerhalb"-Indikator anstelle der normalen Aktivitätsansicht an. Dies hilft Nutzern zu verstehen, warum keine Blitzdaten für ihren aktuellen Standort angezeigt werden.
+
 

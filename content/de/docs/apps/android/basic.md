@@ -54,9 +54,9 @@ bookToc: false
 
 ### Unten links – Alarmradar
 
-| aktiv | inaktiv |
-|----------|---------|
-| ![](/app/android/alarm-radar-active_40.png) | ![](/app/android/alarm-radar-inactive_40.png) |
+| aktiv | inaktiv | außerhalb des Datenbereichs |
+|----------|---------|---------------------------|
+| ![](/app/android/alarm-radar-active_40.png) | ![](/app/android/alarm-radar-inactive_40.png) | ![](/app/android/alarm-radar-outside_40.png) |
 
 
   * Zeigt die Aktivität nach Entfernung für den aktuellen Standort
@@ -66,6 +66,7 @@ bookToc: false
   	* Echtzeitmodus
   * Tippen, um die Karte auf den Standort zu zentrieren
   * Lange drücken, um eine größere Version des Alarmradars zu öffnen
+  * Wenn der aktuelle Standort außerhalb des Blitzdatenbereichs liegt, zeigt das Alarmradar einen „außerhalb"-Indikator an
 
 ### Unten rechts – Histogramm
 
@@ -79,6 +80,16 @@ bookToc: false
 Die Blitzaktivität wird auf der Karte in Kacheln variabler Größe (5 km, 10 km, 25 km, 50 km, 100 km) dargestellt. Jede Kachel mit aufgezeichneter Blitzaktivität im ausgewählten Zeitraum wird entsprechend der jüngsten Aktivität innerhalb des aktuellen Intervalls eingefärbt. Die Zahlen innerhalb der Kacheln zeigen die Anzahl der Blitzereignisse, die im Bereich der Kachel während des entsprechenden Zeitintervalls aufgezeichnet wurden.
 
 ![](/app/android/main_map_data.png)
+
+## Startbildschirm-Widget
+
+Die App bietet ein Startbildschirm-Widget, das die Alarmradaransicht anzeigt:
+
+![](/app/android/widget.png)
+
+  * Einfachtippen: löst eine sofortige Datenaktualisierung aus (zeigt eine Fortschrittsanzeige)
+  * Doppeltippen: öffnet die Haupt-App
+  * Das Widget aktualisiert sich automatisch alle 15 Minuten
 
 ## Menü
 

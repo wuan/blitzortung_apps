@@ -54,9 +54,9 @@ The time slider in the bottom allows to select a point in time out of the last 2
 
 ### Bottom left -- Alarm radar
 
-| active | inactive |
-|----------|---------|
-| ![](/app/android/alarm-radar-active_40.png) | ![](/app/android/alarm-radar-inactive_40.png) |
+| active | inactive | outside data area |
+|----------|---------|-------------------|
+| ![](/app/android/alarm-radar-active_40.png) | ![](/app/android/alarm-radar-inactive_40.png) | ![](/app/android/alarm-radar-outside_40.png) |
 
 
   * Shows activity by distance for the current location
@@ -66,6 +66,7 @@ The time slider in the bottom allows to select a point in time out of the last 2
   	* realtime mode
   * Tap to center map around the location
   * Long press to open a bigger version of Alarm radar
+  * When the current location is outside the lightning data area, the alarm radar shows an "outside" indicator
 
 ### Bottom right -- Histogram
 
@@ -79,6 +80,16 @@ The time slider in the bottom allows to select a point in time out of the last 2
 The lightning activity is shown on the map in tiles with variable size (5 km, 10 km, 25 km, 50 km, 100 km). Each tile with recorded lightning activity in the selected time range gets colored with respect to the most recent activity within the current interval. The numbers which appear inside the tiles show the number of lightning events recorded in the area of the tile during the relevant time interval.
 
 ![](/app/android/main_map_data.png)
+
+## Home screen widget
+
+The app provides a home screen widget that displays the alarm radar view:
+
+![](/app/android/widget.png)
+
+  * Single tap: triggers an immediate data update (shows a progress indicator)
+  * Double tap: opens the main app
+  * The widget automatically updates every 15 minutes
 
 ## Menu
 
