@@ -27,3 +27,7 @@ Hier finden Sie die entsprechenden Projekte:
   * https://github.com/wuan/blitzortung_apps diese Webseite
 
 Dieses Angebot befindet sich im Aufbau und wird ständig erweitert.
+
+## Unterstützung
+
+Wenn Sie das Projekt unterstützen möchten, finden Sie Informationen zu den Betriebskosten und Spenden auf der Seite [Über](../docs/about/).
