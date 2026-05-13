@@ -6,7 +6,7 @@ bookFlatSection: true
 
 The data service is a [JSON-RPC](http://www.jsonrpc.org/) service implemented in
 the [Python](https://www.python.org/) [Twisted](https://twistedmatrix.com/) framework. The data is stored in
-a [PostgreSQL](https://www.postgresql.org/) database.
+a [PostgreSQL](https://www.postgresql.org/) database using the [PostGIS](https://postgis.net/) extensions for spatial data.
 
 The sources can be found on GitHub:
 
