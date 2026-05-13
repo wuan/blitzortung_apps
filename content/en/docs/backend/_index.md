@@ -10,8 +10,8 @@ a [PostgreSQL](https://www.postgresql.org/) database.
 
 The sources can be found on GitHub:
 
-- [Python Module & Service Implementation](https://github.com/wuan/bo-python)
-- [JSON-RPC for Twisted](https://github.com/wuan/txjsonrpc)
+- [Python Module & Service Implementation](https://github.com/wuan/bo-python) - [PyPI package](https://pypi.org/project/blitzortung/)
+- [JSON-RPC for Twisted](https://github.com/wuan/txjsonrpc) - [PyPI package](https://pypi.org/project/txjsonrpc-ng/)
 
 ### Service status
 
