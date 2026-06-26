@@ -2,19 +2,23 @@
 bookFlatSection: true
 ---
 
-# Data service
+# Datenservice
 
-The data service is a [JSON-RPC](http://www.jsonrpc.org/) service implemented in
-the [Python](https://www.python.org/) [Twisted](https://twistedmatrix.com/) framework. The data is stored in
-a [PostgreSQL](https://www.postgresql.org/) database using the [PostGIS](https://postgis.net/) extensions for spatial data.
+Der Datenservice basiert auf [JSON-RPC](http://www.jsonrpc.org/) und ist in 
+[Python](https://www.python.org/) mit [Twisted](https://twistedmatrix.com/) implementiert. Die Daten werden in einer
+[PostgreSQL](https://www.postgresql.org/) Datenbank mit der [PostGIS](https://postgis.net/)-Erweiterung für Geodaten gespeichert.
 
-The sources can be found on GitHub:
+gespeichert.
+
+Der Quellcode der Projekte befindet sich auf GitHub:
 
 - [Python Modul & Service Implementierung](https://github.com/wuan/bo-python) - [PyPI Paket](https://pypi.org/project/blitzortung/)
 - [JSON-RPC for Twisted](https://github.com/wuan/txjsonrpc) - [PyPI Paket](https://pypi.org/project/txjsonrpc-ng/)
 
-### Service status
+### Service Status
 
-The current state of the service can be viewed here:
+Überblick: [Status-Seite](https://wuan.github.io/bo-upptime/)
+
+Die Metriken der einzelnen Server können hier eingesehen werden:
 - [Dashboard Server 1](https://metrics.tryb.de/d/iPC94Iznk/bo-webservice)
 - [Dashboard Server 2](https://raijin.tryb.de/d/iPC94Iznk/bo-webservice) 
