@@ -15,6 +15,8 @@ The sources can be found on GitHub:
 
 ### Service status
 
+Overall: [Status page](https://wuan.github.io/bo-upptime/)
+
 The current state of the service can be viewed here:
 - [Dashboard Server 1](https://metrics.tryb.de/d/iPC94Iznk/bo-webservice)
 - [Dashboard Server 2](https://raijin.tryb.de/d/iPC94Iznk/bo-webservice)
