@@ -20,7 +20,7 @@ If you like to contribute by
 please have a look at the related projects:
 
   * https://github.com/wuan/bo-android for the Android version
-  * https://github.com/wuan/bo-ios for the iOS version
+  * https://github.com/wuan/bo-ios for the iOS version (unpublished, incomplete)
   * https://github.com/wuan/bo-python for the server side Python module and scripts
   * https://github.com/wuan/bo-upptime for the backend system status tracking
   * https://github.com/wuan/txjsonrpc for the JSON-RPC implementation in use
