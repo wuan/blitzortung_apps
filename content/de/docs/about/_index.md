@@ -29,7 +29,7 @@ Die festen Kosten für die zwei redundanten Backend-Server betragen **12,90 EUR 
 | 2023 | 51,64 EUR |
 | 2024 | 30,87 EUR |
 | 2025 | 5,49 EUR |
-| 2026 | 0,00 EUR |
+| 2026 | 15,00 EUR |
 
 ## Spenden
 
