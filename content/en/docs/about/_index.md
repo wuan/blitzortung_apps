@@ -31,6 +31,8 @@ The fixed cost for the two redundant backend servers is **12.90 EUR per server, 
 | 2025 | 5.49 EUR |
 | 2026 | 15.00 EUR |
 
+Thank you for your support!
+
 ## Donations
 
 Donations can be made using [PayPal](https://www.paypal.com/donate/?hosted_button_id=QKC6PAKFHYSH4).

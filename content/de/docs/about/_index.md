@@ -31,6 +31,8 @@ Die festen Kosten für die zwei redundanten Backend-Server betragen **12,90 EUR 
 | 2025 | 5,49 EUR |
 | 2026 | 15,00 EUR |
 
+Vielen Dank für Ihre Unterstützung!
+
 ## Spenden
 
 Spenden können über [PayPal](https://www.paypal.com/donate/?hosted_button_id=QKC6PAKFHYSH4) gemacht werden.
