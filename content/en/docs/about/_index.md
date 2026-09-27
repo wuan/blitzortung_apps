@@ -16,7 +16,7 @@ The software for both backend and app is provided as open source and open access
 
 - [Android App](https://github.com/wuan/bo-android)
 - [iOS App](https://github.com/wuan/bo-ios)
-- [Python Module & Server](https://github.com/wuan/bo-python)
+- [Backend Server (Rust)](https://github.com/wuan/bo-srv-rs)
 
 ## Running Costs
 

@@ -21,9 +21,8 @@ Hier finden Sie die entsprechenden Projekte:
 
   * https://github.com/wuan/bo-android Android-Version
   * https://github.com/wuan/bo-ios unvollständige iOS-Version
-  * https://github.com/wuan/bo-python Python-Modul & Skripte (Server)
+  * https://github.com/wuan/bo-srv-rs Server-Implementierung (Rust)
   * https://github.com/wuan/bo-upptime Status-Überwachung der Backend-Systeme
-  * https://github.com/wuan/txjsonrpc Implementierung des JSON-RPC Dienstes
   * https://github.com/wuan/blitzortung_apps diese Webseite
 
 ## Unterstützung
